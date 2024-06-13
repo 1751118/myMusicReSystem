@@ -3,7 +3,9 @@
 该项目是本科毕业设计的一次个人探索和尝试，使用了#nowplaying-RS音乐数据集，基于音乐内容特征进行聚类得到音乐类别标签后，再使用上下文特征对用户收听事件流进行分类完成基于情绪需要的推荐，使用PyWebIO实现了一个简单的交互界面展示自己的系统。系统通过卷积神经网络获取用户情绪输入，音乐生成模块中调用了Suno AI的API。
 
 系统展示视频：https://www.bilibili.com/video/BV1NT421i7Js/?vd_source=f0ace1255f5d873c3a5c27615e80a439
+
 Suno AI API参考地址：https://suno.gcui.art/docs
+
 #nowplaying-RS数据集地址：https://zenodo.org/records/1340995
 
 ### 开发环境
